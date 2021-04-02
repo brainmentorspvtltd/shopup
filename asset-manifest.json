@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.13dbb43c.chunk.js",
-    "main.js.map": "/static/js/main.13dbb43c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f35d00ce.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f35d00ce.js.map",
-    "static/js/2.fa538da2.chunk.js": "/static/js/2.fa538da2.chunk.js",
-    "static/js/2.fa538da2.chunk.js.map": "/static/js/2.fa538da2.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.fa538da2.chunk.js.LICENSE.txt": "/static/js/2.fa538da2.chunk.js.LICENSE.txt"
+    "main.js": "https://brainmentorspvtltd.github.io/shopup/static/js/main.13dbb43c.chunk.js",
+    "main.js.map": "https://brainmentorspvtltd.github.io/shopup/static/js/main.13dbb43c.chunk.js.map",
+    "runtime-main.js": "https://brainmentorspvtltd.github.io/shopup/static/js/runtime-main.4b2dd472.js",
+    "runtime-main.js.map": "https://brainmentorspvtltd.github.io/shopup/static/js/runtime-main.4b2dd472.js.map",
+    "static/js/2.effabdc0.chunk.js": "https://brainmentorspvtltd.github.io/shopup/static/js/2.effabdc0.chunk.js",
+    "static/js/2.effabdc0.chunk.js.map": "https://brainmentorspvtltd.github.io/shopup/static/js/2.effabdc0.chunk.js.map",
+    "index.html": "https://brainmentorspvtltd.github.io/shopup/index.html",
+    "static/js/2.effabdc0.chunk.js.LICENSE.txt": "https://brainmentorspvtltd.github.io/shopup/static/js/2.effabdc0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f35d00ce.js",
-    "static/js/2.fa538da2.chunk.js",
+    "static/js/runtime-main.4b2dd472.js",
+    "static/js/2.effabdc0.chunk.js",
     "static/js/main.13dbb43c.chunk.js"
   ]
 }
